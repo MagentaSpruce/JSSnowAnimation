@@ -3,7 +3,8 @@
 This project can be used on various webpages to add decoration - the snowflakes can be changed for whatever else is needed.
 
 Constructing this project helped me to better learn and practice the following:
-1) Css
+1) Adjusting animations with Math.random()
+2) Working with setTimeout() and setInterval()
 
 A general walkthrough of the JavaScript code is given below.
 
