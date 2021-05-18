@@ -4,6 +4,23 @@ html{
 
 body{
     background-color: #002244;
+    transition: all;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    text-decoration: underline;
 }
 
 .fa-snowflake{
